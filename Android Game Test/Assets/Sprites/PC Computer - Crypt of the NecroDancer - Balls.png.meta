@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 416760f9413d2d64eb9799289d1e2a65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7177364409395252683
+    second: PC Computer - Crypt of the NecroDancer - Balls_0
+  - first:
+      213: -2879183271085486055
+    second: PC Computer - Crypt of the NecroDancer - Balls_1
+  - first:
+      213: 3527567776947920456
+    second: PC Computer - Crypt of the NecroDancer - Balls_2
+  - first:
+      213: 5081411866987966975
+    second: PC Computer - Crypt of the NecroDancer - Balls_3
+  - first:
+      213: 4529016472891564292
+    second: PC Computer - Crypt of the NecroDancer - Balls_4
+  - first:
+      213: 3429817843289794730
+    second: PC Computer - Crypt of the NecroDancer - Balls_5
+  - first:
+      213: 7500668919124085768
+    second: PC Computer - Crypt of the NecroDancer - Balls_6
+  - first:
+      213: -7445294253193333703
+    second: PC Computer - Crypt of the NecroDancer - Balls_7
+  - first:
+      213: -1669423783511336589
+    second: PC Computer - Crypt of the NecroDancer - Balls_8
+  - first:
+      213: 6373389053310602400
+    second: PC Computer - Crypt of the NecroDancer - Balls_9
+  - first:
+      213: 7414679277524638517
+    second: PC Computer - Crypt of the NecroDancer - Balls_10
+  - first:
+      213: 5286550248742531434
+    second: PC Computer - Crypt of the NecroDancer - Balls_11
+  - first:
+      213: -2068304061731468182
+    second: PC Computer - Crypt of the NecroDancer - Balls_12
+  - first:
+      213: -8690026557255491150
+    second: PC Computer - Crypt of the NecroDancer - Balls_13
+  - first:
+      213: 233316809269554557
+    second: PC Computer - Crypt of the NecroDancer - Balls_14
+  - first:
+      213: -1436486004621241857
+    second: PC Computer - Crypt of the NecroDancer - Balls_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd098d27ee1b9360800000000000000
+      internalID: 7177364409395252683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 87
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d3bbc1161b08d0800000000000000
+      internalID: -2879183271085486055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e581a043074f030800000000000000
+      internalID: 3527567776947920456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b549ab2dc48640800000000000000
+      internalID: 5081411866987966975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40128908c7c4ade30800000000000000
+      internalID: 4529016472891564292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 61
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a5911829299f20800000000000000
+      internalID: 3429817843289794730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 62
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c443644aab71860800000000000000
+      internalID: 7500668919124085768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347726d2500da890800000000000000
+      internalID: -7445294253193333703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379d734f9e305d8e0800000000000000
+      internalID: -1669423783511336589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac01f98393d27850800000000000000
+      internalID: 6373389053310602400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 29
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5e4ca48b36e660800000000000000
+      internalID: 7414679277524638517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613d8f11799d5940800000000000000
+      internalID: 5286550248742531434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8ff80a68eb43e0800000000000000
+      internalID: -2068304061731468182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1631e43e2d66780800000000000000
+      internalID: -8690026557255491150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7da3a0e668ec3300800000000000000
+      internalID: 233316809269554557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Crypt of the NecroDancer - Balls_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11bb1f693901ce0800000000000000
+      internalID: -1436486004621241857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
